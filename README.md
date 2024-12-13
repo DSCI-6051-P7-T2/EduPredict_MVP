@@ -82,9 +82,10 @@ The EduPredict Tool aims to forecast international student enrollment trends usi
 - - Venkata Sai rakesh Madisetty 
 - - Hemanth PathipatiShruti Brahma
 
-- Advisor
-### Professor Sula
-- Mentor/Volunteer:
+## Advisor
+- - # Professor Sula
+    
+## Mentor/Volunteer:
 - - Shruti Brahma
 - - siddhant alhat
 
