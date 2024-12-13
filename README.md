@@ -85,7 +85,7 @@ The EduPredict Tool aims to forecast international student enrollment trends usi
 - - Sneha Latha Reddy Basani
 - - Kowsalya Mayaluri 
 - - Venkata Sai rakesh Madisetty 
-- - Hemanth PathipatiShruti Brahma
+- - Hemanth Pathipati
 
 ## Advisor
 - - # Professor Sula
