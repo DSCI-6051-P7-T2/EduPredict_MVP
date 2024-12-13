@@ -1,9 +1,94 @@
-# EduPredict_MVP : Data-Driven Decision Making for Enrollment Trends and Educational Policy Analysis in Higher Education
+# EduPredict Tool
 
-## Project Description:
-This project aims to develop a comprehensive data-driven framework to analyze and forecast enrollment trends in higher education within a non-specific country context. The 
-primary focus is on creating data science tools and methodologies that support decision-making for educational institutions and policymakers. The project will involve data 
-collection, integration, and analysis, and will utilize machine learning models to predict future enrollment trends. The outcomes will be presented through interactive dashboards to enable stakeholders to explore different scenarios and understand the potential impacts on higher education enrollment.
+**Predicting Enrollment Trends in Higher Education in the USA**  
+**MSDS Capstone – FA24 DSCI 6051-02**
+
+---
+
+## Objective
+The EduPredict Tool aims to forecast international student enrollment trends using machine learning (ML) techniques. Higher education institutions face volatile enrollment trends, necessitating accurate forecasting tools for strategic planning.
+
+---
+
+## Scope
+- Develop an interactive **Power BI dashboard** with scenario-based forecasts for decision-makers in higher education.
+- Implement models using **Python**, **Power BI**, and **scikit-learn** for data analysis, modeling, and visualization.
+- Enhance predictions with insights derived from historical enrollment data.
+
+---
+
+## CRISP-DM Methodology
+### **Phase 1: Business Understanding**
+- **Problem**: Institutions need actionable forecasts to address enrollment volatility.
+- **Solution**: Provide scenario-based forecasts tailored for strategic planning.
+
+### **Phase 2: Data Understanding**
+- **Data Source**: Open Doors dataset, capturing international student enrollment trends.
+- **Analysis**: Trends, correlations, and anomalies were identified, enabling improved feature engineering.
+- **Challenges**: Addressing missing values, inconsistencies, and incomplete records through rigorous data cleaning.
+
+### **Phase 3: Data Preparation**
+- **Steps**: Data cleaning, integration, and formatting to standardize features.
+- **Challenges**: Managing data inconsistencies and ensuring readiness for analysis.
+
+### **Phase 4: Modeling**
+- Models Used:
+  - **ARIMA**: For time series analysis.
+  - **Linear Regression**: For feature-based predictions.
+- **Training Process**:
+  - Dataset split: 80% for training, 20% for testing.
+  - Feature standardization to maintain consistency.
+- **Results**:
+  - ARIMA model performed best, effectively capturing time series patterns for enrollment forecasting.
+
+### **Phase 5: Evaluation**
+- Evaluated model accuracy and dashboard effectiveness to support institutional decision-making.
+
+---
+
+## Tools and Technologies
+- **Python**: For data loading, preprocessing, and model development.
+- **GitHub**: For version control and team collaboration.
+- **Machine Learning Algorithms**: ARIMA, Linear Regression, and others.
+- **Power BI**: For building an interactive dashboard to analyze enrollment trends.
+
+---
+
+## Key Learnings
+- **Data Analysis**: Expertise in data preprocessing, cleaning, and finding correlations.
+- **Team Growth**: Improved collaboration and structured task management using the CRISP-DM methodology.
+- **Dashboards**: Developed skills in building user-friendly Power BI dashboards.
+
+---
+
+## Future Recommendations
+- **Enhancements**: Focus on improving information accuracy, dashboard usability, and client engagement.
+- **Long-Term Applications**: Broaden the scope to incorporate predictive analytics for various industries.
+- **Next Steps**: Maintain comprehensive documentation, refine insights, and establish feedback loops to align with evolving goals.
+
+---
+
+## Contributors
+- Team Members:
+- - VENKATA SAI MOHAN YEDLA
+- - Bhargavi Kommi
+- - Vinodh Kumar chimpiri
+- - Venkata Surendra Chowdary Mekala
+- - Venkata Naga Sandeep Gude
+- - Kavitha Madiraju
+- - Pranitha Beereddy
+- - Sneha Latha Reddy Basani
+- - Kowsalya Mayaluri 
+- - Venkata Sai rakesh Madisetty 
+- - Hemanth PathipatiShruti Brahma
+
+- Advisor
+### Professor Sula
+- Mentor/Volunteer:
+- - Shruti Brahma
+- - siddhant alhat
 
 
-Inspired by international studies that project enrollment trends based on key demographic and socio-economic factors, this project will develop a scalable and adaptable framework that can be applied to various countries and regions.s. 
+---
+
+© 2024 University of New Haven
