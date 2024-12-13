@@ -1,7 +1,12 @@
+<div align="center">
+
 # EduPredict Tool
 
 **Predicting Enrollment Trends in Higher Education in the USA**  
 **MSDS Capstone – FA24 DSCI 6051-02**
+
+</div>
+
 
 ---
 
