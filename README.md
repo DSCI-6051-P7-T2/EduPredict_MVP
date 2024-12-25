@@ -51,7 +51,7 @@ The EduPredict Tool aims to forecast international student enrollment trends usi
 
 ---
 
-## Tools and Technologies
+## **Tools and Technologies**
 - **Python**: For data loading, preprocessing, and model development.
 - **GitHub**: For version control and team collaboration.
 - **Machine Learning Algorithms**: ARIMA, Linear Regression, and others.
